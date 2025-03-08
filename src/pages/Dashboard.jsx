@@ -109,7 +109,7 @@ const Dashboard = () => {
                     width: '100%',
                     boxSizing: 'border-box'
                 }}>
-                    Made with ❤️ using React & Material-UI
+                    Made by Suraj
                 </Box>
             </Container>
         </Box>
