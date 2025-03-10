@@ -100,13 +100,13 @@ Features include:
 - Track task progress
 - Visual completion indicators
 
-### 8. Category Management
+### 8. Responsive Design
 ![Category Management](./assets/Screenshot%202025-03-10%20132057.png)
 - Add custom categories
 - Flexible category system
 - Category-based filtering
 
-### 9. Responsive Design
+### 9. Category Management
 ![Mobile View](./assets/Screenshot%202025-03-10%20132005.png)
 - Fully responsive layout
 - Mobile-friendly interface
